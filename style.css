@@ -647,6 +647,15 @@ p {
     
   }
   
+  .cta1-section-1{
+    padding: 0 20px;
+}
+.cta1-section-2{
+    padding: 0 20px;
+
+}
+
+  
   /* ----------start of cta2--------- */
   
   #cta2{
@@ -655,6 +664,14 @@ p {
     /* margin: auto; */
     
   }
+  
+    .cta2-section-1{
+    padding: 0 20px;
+}
+.cta2-section-2{
+    padding: 0 20px;
+
+}
   
   /* -----------start of instagram feed----- */
   
